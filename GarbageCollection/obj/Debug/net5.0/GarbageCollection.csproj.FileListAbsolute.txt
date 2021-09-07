@@ -1,0 +1,16 @@
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\bin\Debug\net5.0\GarbageCollection.exe
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\bin\Debug\net5.0\GarbageCollection.deps.json
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\bin\Debug\net5.0\GarbageCollection.runtimeconfig.json
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\bin\Debug\net5.0\GarbageCollection.runtimeconfig.dev.json
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\bin\Debug\net5.0\GarbageCollection.dll
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\bin\Debug\net5.0\ref\GarbageCollection.dll
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\bin\Debug\net5.0\GarbageCollection.pdb
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\obj\Debug\net5.0\GarbageCollection.csproj.AssemblyReference.cache
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\obj\Debug\net5.0\GarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\obj\Debug\net5.0\GarbageCollection.AssemblyInfoInputs.cache
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\obj\Debug\net5.0\GarbageCollection.AssemblyInfo.cs
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\obj\Debug\net5.0\GarbageCollection.csproj.CoreCompileInputs.cache
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\obj\Debug\net5.0\GarbageCollection.dll
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\obj\Debug\net5.0\ref\GarbageCollection.dll
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\obj\Debug\net5.0\GarbageCollection.pdb
+D:\TaazaaTraining-2021\TaazaaPractice\GarbageCollection\obj\Debug\net5.0\GarbageCollection.genruntimeconfig.cache

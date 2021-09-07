@@ -1,0 +1,16 @@
+D:\BasicProgarm\Break\bin\Debug\net5.0\Break.exe
+D:\BasicProgarm\Break\bin\Debug\net5.0\Break.deps.json
+D:\BasicProgarm\Break\bin\Debug\net5.0\Break.runtimeconfig.json
+D:\BasicProgarm\Break\bin\Debug\net5.0\Break.runtimeconfig.dev.json
+D:\BasicProgarm\Break\bin\Debug\net5.0\Break.dll
+D:\BasicProgarm\Break\bin\Debug\net5.0\ref\Break.dll
+D:\BasicProgarm\Break\bin\Debug\net5.0\Break.pdb
+D:\BasicProgarm\Break\obj\Debug\net5.0\Break.csproj.AssemblyReference.cache
+D:\BasicProgarm\Break\obj\Debug\net5.0\Break.GeneratedMSBuildEditorConfig.editorconfig
+D:\BasicProgarm\Break\obj\Debug\net5.0\Break.AssemblyInfoInputs.cache
+D:\BasicProgarm\Break\obj\Debug\net5.0\Break.AssemblyInfo.cs
+D:\BasicProgarm\Break\obj\Debug\net5.0\Break.csproj.CoreCompileInputs.cache
+D:\BasicProgarm\Break\obj\Debug\net5.0\Break.dll
+D:\BasicProgarm\Break\obj\Debug\net5.0\ref\Break.dll
+D:\BasicProgarm\Break\obj\Debug\net5.0\Break.pdb
+D:\BasicProgarm\Break\obj\Debug\net5.0\Break.genruntimeconfig.cache

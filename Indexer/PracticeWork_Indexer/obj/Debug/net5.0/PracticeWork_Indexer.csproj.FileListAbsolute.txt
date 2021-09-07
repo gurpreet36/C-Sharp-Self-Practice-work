@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\obj\Debug\net5.0\PracticeWork_Indexer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\obj\Debug\net5.0\PracticeWork_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\obj\Debug\net5.0\PracticeWork_Indexer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\obj\Debug\net5.0\PracticeWork_Indexer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\obj\Debug\net5.0\PracticeWork_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\bin\Debug\net5.0\PracticeWork_Indexer.exe
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\bin\Debug\net5.0\PracticeWork_Indexer.deps.json
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\bin\Debug\net5.0\PracticeWork_Indexer.runtimeconfig.json
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\bin\Debug\net5.0\PracticeWork_Indexer.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\bin\Debug\net5.0\PracticeWork_Indexer.dll
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\bin\Debug\net5.0\ref\PracticeWork_Indexer.dll
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\bin\Debug\net5.0\PracticeWork_Indexer.pdb
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\obj\Debug\net5.0\PracticeWork_Indexer.dll
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\obj\Debug\net5.0\ref\PracticeWork_Indexer.dll
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\obj\Debug\net5.0\PracticeWork_Indexer.pdb
+C:\Users\lenovo\Desktop\31082021\PracticeWork_Indexer\obj\Debug\net5.0\PracticeWork_Indexer.genruntimeconfig.cache

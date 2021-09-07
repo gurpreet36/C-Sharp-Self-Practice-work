@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\PClass\bin\Debug\net5.0\PClass.exe
+C:\Users\lenovo\Desktop\PClass\bin\Debug\net5.0\PClass.deps.json
+C:\Users\lenovo\Desktop\PClass\bin\Debug\net5.0\PClass.runtimeconfig.json
+C:\Users\lenovo\Desktop\PClass\bin\Debug\net5.0\PClass.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\PClass\bin\Debug\net5.0\PClass.dll
+C:\Users\lenovo\Desktop\PClass\bin\Debug\net5.0\ref\PClass.dll
+C:\Users\lenovo\Desktop\PClass\bin\Debug\net5.0\PClass.pdb
+C:\Users\lenovo\Desktop\PClass\obj\Debug\net5.0\PClass.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\PClass\obj\Debug\net5.0\PClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\PClass\obj\Debug\net5.0\PClass.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\PClass\obj\Debug\net5.0\PClass.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\PClass\obj\Debug\net5.0\PClass.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\PClass\obj\Debug\net5.0\PClass.dll
+C:\Users\lenovo\Desktop\PClass\obj\Debug\net5.0\ref\PClass.dll
+C:\Users\lenovo\Desktop\PClass\obj\Debug\net5.0\PClass.pdb
+C:\Users\lenovo\Desktop\PClass\obj\Debug\net5.0\PClass.genruntimeconfig.cache

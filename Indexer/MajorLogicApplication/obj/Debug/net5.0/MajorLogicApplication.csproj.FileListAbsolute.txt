@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.exe
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.deps.json
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.runtimeconfig.json
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.dll
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\bin\Debug\net5.0\ref\MajorLogicApplication.dll
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\bin\Debug\net5.0\MajorLogicApplication.pdb
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.dll
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\obj\Debug\net5.0\ref\MajorLogicApplication.dll
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.pdb
+C:\Users\lenovo\Desktop\31082021\MajorLogicApplication\obj\Debug\net5.0\MajorLogicApplication.genruntimeconfig.cache

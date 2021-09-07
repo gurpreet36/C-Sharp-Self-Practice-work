@@ -1,0 +1,16 @@
+D:\hashTable\bin\Debug\net5.0\hashTable.exe
+D:\hashTable\bin\Debug\net5.0\hashTable.deps.json
+D:\hashTable\bin\Debug\net5.0\hashTable.runtimeconfig.json
+D:\hashTable\bin\Debug\net5.0\hashTable.runtimeconfig.dev.json
+D:\hashTable\bin\Debug\net5.0\hashTable.dll
+D:\hashTable\bin\Debug\net5.0\ref\hashTable.dll
+D:\hashTable\bin\Debug\net5.0\hashTable.pdb
+D:\hashTable\obj\Debug\net5.0\hashTable.csproj.AssemblyReference.cache
+D:\hashTable\obj\Debug\net5.0\hashTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\hashTable\obj\Debug\net5.0\hashTable.AssemblyInfoInputs.cache
+D:\hashTable\obj\Debug\net5.0\hashTable.AssemblyInfo.cs
+D:\hashTable\obj\Debug\net5.0\hashTable.csproj.CoreCompileInputs.cache
+D:\hashTable\obj\Debug\net5.0\hashTable.dll
+D:\hashTable\obj\Debug\net5.0\ref\hashTable.dll
+D:\hashTable\obj\Debug\net5.0\hashTable.pdb
+D:\hashTable\obj\Debug\net5.0\hashTable.genruntimeconfig.cache

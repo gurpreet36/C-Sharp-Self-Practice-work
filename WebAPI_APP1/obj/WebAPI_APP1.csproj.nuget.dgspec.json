@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\Desktop\\WebAPI_APP1\\WebAPI_APP1.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# Programs\\WebAPI_APP1\\WebAPI_APP1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\Desktop\\WebAPI_APP1\\WebAPI_APP1.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# Programs\\WebAPI_APP1\\WebAPI_APP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\WebAPI_APP1\\WebAPI_APP1.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Programs\\WebAPI_APP1\\WebAPI_APP1.csproj",
         "projectName": "WebAPI_APP1",
-        "projectPath": "C:\\Users\\lenovo\\Desktop\\WebAPI_APP1\\WebAPI_APP1.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Programs\\WebAPI_APP1\\WebAPI_APP1.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\Desktop\\WebAPI_APP1\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Programs\\WebAPI_APP1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

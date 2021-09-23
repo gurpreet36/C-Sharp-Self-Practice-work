@@ -1,0 +1,16 @@
+D:\Linq\linq_Operations\obj\Debug\net5.0\linq_Operations.csproj.AssemblyReference.cache
+D:\Linq\linq_Operations\obj\Debug\net5.0\linq_Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linq\linq_Operations\obj\Debug\net5.0\linq_Operations.AssemblyInfoInputs.cache
+D:\Linq\linq_Operations\obj\Debug\net5.0\linq_Operations.AssemblyInfo.cs
+D:\Linq\linq_Operations\obj\Debug\net5.0\linq_Operations.csproj.CoreCompileInputs.cache
+D:\Linq\linq_Operations\bin\Debug\net5.0\linq_Operations.exe
+D:\Linq\linq_Operations\bin\Debug\net5.0\linq_Operations.deps.json
+D:\Linq\linq_Operations\bin\Debug\net5.0\linq_Operations.runtimeconfig.json
+D:\Linq\linq_Operations\bin\Debug\net5.0\linq_Operations.runtimeconfig.dev.json
+D:\Linq\linq_Operations\bin\Debug\net5.0\linq_Operations.dll
+D:\Linq\linq_Operations\bin\Debug\net5.0\ref\linq_Operations.dll
+D:\Linq\linq_Operations\bin\Debug\net5.0\linq_Operations.pdb
+D:\Linq\linq_Operations\obj\Debug\net5.0\linq_Operations.dll
+D:\Linq\linq_Operations\obj\Debug\net5.0\ref\linq_Operations.dll
+D:\Linq\linq_Operations\obj\Debug\net5.0\linq_Operations.pdb
+D:\Linq\linq_Operations\obj\Debug\net5.0\linq_Operations.genruntimeconfig.cache

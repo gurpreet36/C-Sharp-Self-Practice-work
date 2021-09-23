@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\usermanagement\\usermanagementService\\usermanagementService.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# Programs\\usermanagement\\usermanagementService\\usermanagementService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\usermanagement\\usermanagementService\\usermanagementService.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# Programs\\usermanagement\\usermanagementService\\usermanagementService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\usermanagement\\usermanagementService\\usermanagementService.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# Programs\\usermanagement\\usermanagementService\\usermanagementService.csproj",
         "projectName": "usermanagementService",
-        "projectPath": "C:\\Users\\lenovo\\usermanagement\\usermanagementService\\usermanagementService.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# Programs\\usermanagement\\usermanagementService\\usermanagementService.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\usermanagement\\usermanagementService\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# Programs\\usermanagement\\usermanagementService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.3.3, )"
+            },
             "Microsoft.EntityFrameworkCore.design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -61,6 +65,10 @@
             "automapper": {
               "target": "Package",
               "version": "[10.1.1, )"
+            },
+            "fluentvalidation.aspnetcore": {
+              "target": "Package",
+              "version": "[10.3.3, )"
             }
           },
           "imports": [
@@ -81,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

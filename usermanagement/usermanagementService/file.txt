@@ -14,6 +14,19 @@ dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 5.0.7
    services.AddDbContext<UserDbContext>(tm=>tm.UseNpgsql(Configuration.GetConnectionString()));
 }
 
+Remarks:-
+___________________________________________________________________________________________
+1)controller is unstructured beacuse we had not apply proper attripute routing,prefeix,and route constraint,route parameter
+2)there is no model validation(data annotation or fluent model validation)
+
+dotnet add package fluentvalidation.aspnetcore
+
+3)there is lack of join because atleast we need to have 2 tables for relationship.
+4) give proper demonstration one to one ,one to many
+5)do write asynchronous programing by immplementing async and await
+VVIP6) controller is insecure their is no authantication so we need to write logic for securing the controller using custom middle ware
+7) securityNeed to have
+
 
 {
   "Logging": {

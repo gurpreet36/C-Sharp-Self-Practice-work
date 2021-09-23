@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3YsF0fSHHjeKt2PeVYVdZKCs1qAGhqj20npla8CMfzHU4lz4F1htnxQ6/OeWqyOre44YtcU47i2r6GfeQCgTYg==",
+  "dgSpecHash": "IKprZiD/zF7ghu0LA2WQeFcjOclxurgYiB5Sm0Qnv8FoY2H3bsA+V3+qCRMpRNlwsXvgPCowjVsKatAAYXQDfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lenovo\\usermanagement\\usermanagementService\\usermanagementService.csproj",
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\C# Programs\\usermanagement\\usermanagementService\\usermanagementService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",

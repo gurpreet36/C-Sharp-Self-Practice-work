@@ -1,0 +1,85 @@
+Linq:-
+
+eg:-
+                        using System;
+                        using System.Linq;
+
+                        class Program {
+                        static void Main() {
+                        
+                            string[] words = {"hello", "wonderful", "LINQ", "beautiful", "world"};
+                        _____________________________________		
+                            //Get only short words
+                            var shortWords = from word in words where word.Length <= 5 select word;
+                        ____________________________________	    
+                            //Print each word out
+                            foreach (var word in shortWords) {
+                                Console.WriteLine(word);
+                            }	 
+                        _____________________________________
+                        }
+________________________________________________________________________________                        
+Syntax of LINQ
+_________________________________________________________________________________
+There are two syntaxes of LINQ. These are the following ones.
+
+Lamda (Method) Syntax
+-----------------------
+var longWords = words.Where( w ⇒ w.length > 10);
+
+Query (Comprehension) Syntax
+-----------------------------
+var longwords = from w in words where w.length > 10;
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Difference between LINQ and Stored Procedure
+__________________________________________________________________________________
+1 There is an array of differences existing between LINQ and Stored procedures. These differences are mentioned below.
+
+2 Stored procedures are much faster than a LINQ query as they follow an expected execution plan.
+
+3) It is easy to avoid run-time errors while executing a LINQ query than in comparison to a stored procedure as the former has Visual Studio’s Intellisense support as well as full-type checking during compile-time.
+
+4) LINQ allows debugging by making use of .NET debugger which is not in case of stored procedures.
+
+5)LINQ offers support for multiple databases in contrast to stored procedures, where it is essential to re-write the code for diverse types of databases.
+
+6)Deployment of LINQ based solution is easy and simple in comparison to deployment of a set of stored procedures.
+
+_______________________Linq-Operations_________________________
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1) Filtering Operators
+_______________________________________________________________
+Filtering is an operation to restrict the result set such that it has only selected elements satisfying a particular condition.
+
+command:-
+where
+
+2) Join Operators
+_______________________________________________________________
+3) Projection Operations
+_______________________________________________________________
+4) Sorting Operators
+________________________________________________________________
+5) Grouping Operators
+_______________________________________________________________
+6) Conversions
+________________________________________________________________
+7) Concatenation
+_______________________________________________________________
+8) Aggregation
+_______________________________________________________________
+9) Quantifier Operations
+_______________________________________________________________
+10) Partition Operations
+_______________________________________________________________
+11) Generation Operations
+_______________________________________________________________
+12) Set Operations
+_______________________________________________________________
+13) Equality
+_______________________________________________________________
+14) Element Operators
+_______________________________________________________________

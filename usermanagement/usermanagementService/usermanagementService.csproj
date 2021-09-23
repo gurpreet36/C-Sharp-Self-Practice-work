@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <PackageReference Include="automapper" Version="10.1.1" />
+    <PackageReference Include="fluentvalidation.aspnetcore" Version="10.3.3" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="10.3.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.design" Version="5.0.10">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
